@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fr_hero"
+        android:icon="@drawable/ic_hero"
+        android:title="@string/hero"
+        />
+
+    <item
+        android:id="@+id/fr_menuBook"
+        android:icon="@drawable/ic_menu_book"
+        android:title="@string/skill"
+        />
+
+    <item
+        android:id="@+id/fr_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+
+        />
+
+    <item
+        android:id="@+id/fr_dashboard"
+        android:icon="@drawable/ic_dashboard"
+        android:title="@string/tailed_beast"
+        />
+
+    <item
+        android:id="@+id/fr_info"
+        android:icon="@drawable/ic_info"
+        android:title="@string/info"
+        />
+
+</menu>

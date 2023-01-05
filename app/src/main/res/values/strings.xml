@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NinjaBocil</string>
+    <string name="home">Home</string>
+    <string name="hero">Hero</string>
+    <string name="tailed_beast">Tailed Beast</string>
+    <string name="info">Info</string>
+    <string name="skill">Skill</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_fragment">About Fragment</string>
+    <string name="hero_fragment">Hero Fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="skill_fragment">Skill Fragment</string>
+    <string name="aplikasi_tidak_berafiliasi">Aplikasi ini tidak berafiliasi dengan atau didukung oleh Moonton. NHDB hanya aplikasi database untuk Ninja Heroes : New Era.</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="aplikasi_database">Aplikasi Database untuk Ninja Heroes : New Era</string>
+    <string name="versi_1_1_0_v_1">Versi 1.1.0 v.1</string>
+    <string name="nhbd">NHBD</string>
+    <string name="informasi_aplikasi">Informasi Aplikasi</string>
+    <string name="tentang">Tentang</string>
+    <string name="privasi">Privasi</string>
+    <string name="aplikasi_ini_tidak_mengumpulkan_data_personal">Aplikasi ini tidak mengumpulkan data personal atau informasi apapun dikarenkan tidak perlu login akun atau regsiter akun.</string>
+    <string name="privasi_akun_aman">Aplikasi ini tidak mengumpulkan data personal atau informasi apapun dikarenkan tidak perlu login akun atau regsiter akun.</string>
+    <string name="aplikasi_tak_berafiliasi">Aplikasi ini tidak berafiliasi dengan atau didukung oleh Moonton. NHDB hanya aplikasi database untuk Ninja Heroes : New Era.</string>
+    <string name="judulTailed">Tailed Beast</string>
+</resources>

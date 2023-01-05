@@ -1,0 +1,25 @@
+Fragment Home :
+- Berisi tentang Hot Event dan update-update terbaru / mendatang dari para leakers
+
+Fragmen Hero :
+- Berisi card hero serta nama jika ditekan maka akan menuju ke activity detail
+yang berisi tentang detail para hero secara menyeluruh
+- API 1 -> Hero dan Nama Hero -> Card di klik -> API 2 -> Detail Hero -> card skill yang direkomendasikan
+dapat di klik menuju ke API 4
+
+Fragment Skill
+- Berisi card skill serta nama jika ditekan maka akan menuju ke activity detail
+yang berisi tentang detail skill secara menyeluruh
+- API 3 -> Skill dan Nama Skill -> Card di Klik -> API 4 -> Detail Skill
+
+Fragment Biju
+- Berisi card biju serta nama jika ditekan maka akan menuju ke activity detail
+yang berisi tentang detail biju secara menyeluruh
+- API 5 -> Biju dan Nama Biju -> Card di klik -> API 6 -> Detail Biju -> card skill dapat diklik menuju ke API 4
+
+Fragment About
+- Berisi tentang aplikasi ini serta nama , npm, email, foto dari kelompok
+
+
+Fragment Hero - Fragment Skill - Fragment Home - Fragment Biju - Fragment About
+
